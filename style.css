@@ -167,7 +167,7 @@ header .icons #menu-bars{
 }
 
 .anime{
-    padding:5rem;
+    padding:5px;
 }
 
 .anime .box{
@@ -190,7 +190,7 @@ header .icons #menu-bars{
 }
 
 .action{
-    padding:5rem;
+    padding:5px
 }
 
 .action .box{
@@ -203,17 +203,19 @@ header .icons #menu-bars{
     color: #ffffff;
     text-transform: uppercase;
     text-align: center;
+    
 }
 
 .action .content P{
     font-size: 1.2rem;
     color:#fff;
     text-decoration: none;
+    
 
 }
 
 .child{
-    padding:5rem;
+    padding:5px;
 }
 
 .child .box{
@@ -226,6 +228,8 @@ header .icons #menu-bars{
      color: #ffffff;
      text-transform: uppercase;
      text-align: center;
+     width: 120px;
+    
  }
 
  .child .content P{
@@ -237,12 +241,14 @@ header .icons #menu-bars{
 
 
 .family{
-    padding:5rem;
+    padding:5px;
+    
 }
 
 .family .box{
     width:299px;
     height:168px;
+    
  }
 
  .family .content h3{
@@ -250,13 +256,14 @@ header .icons #menu-bars{
      color: #ffffff;
      text-transform: uppercase;
      text-align: center;
+     width: 120px;
+     
  }
 
  .family .content P{
      font-size: 1.2rem;
      color:#fff;
      text-decoration: none;
-
  }
 
 .copyright{
@@ -436,6 +443,7 @@ header .icons #menu-bars{
     .home .box .content h3{
         font-size:5rem;
     }
+    
 }
 
 @media(max-width: 450px){
