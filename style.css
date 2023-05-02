@@ -285,7 +285,7 @@ header .icons #menu-bars{
 }
 
 
-.video-container iframe{
+.video-container video{
     width: 100%;
     aspect-ratio: 16/9;
 }
