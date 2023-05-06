@@ -344,6 +344,10 @@ header .icons #menu-bars{
     margin-top: 1.6rem;
 }
 
+.screenshots-content img:hover{
+    transform: scale(1.1);
+}
+
 .download{
     max-width: 800px;
     margin: auto;
