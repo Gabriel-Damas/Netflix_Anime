@@ -22,7 +22,7 @@ var swiper = new Swiper(".home-slider", {
   });
 
   var swiper = new Swiper(".anime-slider", {
-    slidesPerView: 4,
+    slidesPerView: 6,
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
@@ -38,7 +38,7 @@ var swiper = new Swiper(".home-slider", {
 
 
   var swiper = new Swiper(".action-slider", {
-    slidesPerView: 4,
+    slidesPerView: 6,
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
@@ -54,7 +54,7 @@ var swiper = new Swiper(".home-slider", {
 
 
   var swiper = new Swiper(".child-slider", {
-    slidesPerView: 4,
+    slidesPerView: 6,
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
@@ -69,7 +69,7 @@ var swiper = new Swiper(".home-slider", {
   });
 
   var swiper = new Swiper(".family-slider", {
-    slidesPerView: 4,
+    slidesPerView: 6,
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {

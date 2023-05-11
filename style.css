@@ -183,7 +183,7 @@ header .icons #menu-bars{
     color: #ffffff;
     text-transform: uppercase;
     text-align: center;
-    margin-right: 150px;
+
 }
 
 .anime .content P{
@@ -408,10 +408,6 @@ header .icons #menu-bars{
 
 
 
-
-
-
-/* media query */
 @media(max-width: 991px){
     html{
         font-size: 55%;
