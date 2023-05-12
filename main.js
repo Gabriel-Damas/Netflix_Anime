@@ -20,9 +20,9 @@ var swiper = new Swiper(".home-slider", {
     },
     loop:true,
   });
-
+ 
   var swiper = new Swiper(".anime-slider", {
-    slidesPerView: 4,
+    slidesPerView: 6,
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
