@@ -66,7 +66,7 @@ var swiper = new Swiper(".home-slider", {
       clickable: true,
     },
     loop:true
-  });
+  }); 
   
   var swiper = new Swiper(".family-slider", {
     slidesPerView: 6,
