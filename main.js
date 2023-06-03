@@ -63,7 +63,7 @@ var swiper = new Swiper(".home-slider", {
     },
     pagination: {
       el: ".swiper-pagination",
-      clickable: true,
+      clickable: true, 
     },
     loop:true
   }); 
