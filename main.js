@@ -81,4 +81,4 @@ var swiper = new Swiper(".home-slider", {
       clickable: true,
     },
     loop:true
-  });          
+  });           
