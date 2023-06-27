@@ -69,7 +69,7 @@ var swiper = new Swiper(".home-slider", {
   }); 
        
   var swiper = new Swiper(".family-slider", {
-    slidesPerView: 6,
+    slidesPerView: 6, 
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
