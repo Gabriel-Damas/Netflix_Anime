@@ -61,7 +61,7 @@ var swiper = new Swiper(".home-slider", {
       delay: 2500,
       disableOnInteraction: false,
     },
-    pagination: {
+    pagination: { 
       el: ".swiper-pagination",
       clickable: true, 
     },
@@ -80,5 +80,5 @@ var swiper = new Swiper(".home-slider", {
       el: ".swiper-pagination",
       clickable: true, 
     },
-    loop:true 
+    loop:true  
   });                                  
