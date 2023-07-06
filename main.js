@@ -14,7 +14,7 @@ var swiper = new Swiper(".home-slider", {
       delay: 7500,
       disableOnInteraction: false,
     },
-    pagination: {
+    pagination: { 
       el: ".swiper-pagination",
       clickable: true,
     },
