@@ -80,5 +80,5 @@ var swiper = new Swiper(".home-slider", {
       el: ".swiper-pagination",
       clickable: true, 
     },
-    loop:true  
+    loop:true   
   });                                    
