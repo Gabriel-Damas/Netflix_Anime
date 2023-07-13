@@ -74,7 +74,7 @@ var swiper = new Swiper(".home-slider", {
     centeredSlides: true,
     autoplay: {
       delay: 1500,
-      disableOnInteraction: false,
+      disableOnInteraction: false, 
     },
     pagination: { 
       el: ".swiper-pagination",
