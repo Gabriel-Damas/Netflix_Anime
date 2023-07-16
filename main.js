@@ -36,7 +36,7 @@ var swiper = new Swiper(".home-slider", {
     loop:true
   });
 
-
+ 
   var swiper = new Swiper(".action-slider", {
     slidesPerView: 6,
     spaceBetween: 30,
