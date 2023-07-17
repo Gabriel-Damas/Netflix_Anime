@@ -39,7 +39,7 @@ var swiper = new Swiper(".home-slider", {
  
   var swiper = new Swiper(".action-slider", {
     slidesPerView: 6,
-    spaceBetween: 30,
+    spaceBetween: 30, 
     centeredSlides: true,
     autoplay: {
       delay: 3500,
