@@ -25,7 +25,7 @@ var swiper = new Swiper(".home-slider", {
     slidesPerView: 6,
     spaceBetween: 30,
     centeredSlides: true,
-    autoplay: {
+    autoplay: { 
       delay: 4500,
       disableOnInteraction: false,
     },
